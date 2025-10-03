@@ -1,6 +1,6 @@
-# Blinkit Sales Data Analysis (Demo Project)
+# Blinkit Sales Data Analysis 
 
-This project is a **data cleaning and exploratory data analysis (EDA) project** on a Blinkit demo sales dataset.  
+This project is a **data cleaning and exploratory data analysis (EDA) project** on a Blinkit  sales dataset.  
 The analysis is done entirely using **Python (Pandas library)** without any external BI tools.
 
 
